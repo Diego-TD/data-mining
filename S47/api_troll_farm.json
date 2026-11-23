@@ -1,0 +1,298 @@
+[
+    {
+        "account_id": "TROLL_BOT_1",
+        "metadata": {
+            "last_ip": "104.28.19.112",
+            "payment_hash": "VISA-4455-XXXX-9090"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_11",
+                "TROLL_BOT_1",
+                "TROLL_BOT_1"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_14",
+        "metadata": {
+            "last_ip": "189.168.1.196",
+            "payment_hash": "MC-8573-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_15",
+                "real_user_11"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_13",
+        "metadata": {
+            "last_ip": "189.168.1.184",
+            "payment_hash": null
+        },
+        "activity": {
+            "retweets": [
+                "real_user_3",
+                "real_user_9"
+            ]
+        }
+    },
+    {
+        "account_id": "TROLL_BOT_5",
+        "metadata": {
+            "last_ip": "104.28.19.112",
+            "payment_hash": "VISA-4455-XXXX-9090"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_12",
+                "TROLL_BOT_1",
+                "TROLL_BOT_5"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_12",
+        "metadata": {
+            "last_ip": "189.168.1.51",
+            "payment_hash": "MC-4432-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_12",
+                "real_user_15"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_11",
+        "metadata": {
+            "last_ip": "189.168.1.231",
+            "payment_hash": "MC-5554-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_14",
+                "real_user_6"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_15",
+        "metadata": {
+            "last_ip": "189.168.1.186",
+            "payment_hash": null
+        },
+        "activity": {
+            "retweets": [
+                "real_user_14",
+                "real_user_13"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_8",
+        "metadata": {
+            "last_ip": "189.168.1.246",
+            "payment_hash": "MC-5803-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_10",
+                "real_user_15"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_10",
+        "metadata": {
+            "last_ip": "189.168.1.68",
+            "payment_hash": null
+        },
+        "activity": {
+            "retweets": [
+                "real_user_14",
+                "real_user_4"
+            ]
+        }
+    },
+    {
+        "account_id": "troll_bot_1",
+        "metadata": {
+            "last_ip": "104.28.19.112",
+            "payment_hash": "VISA-4455-XXXX-9090"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_2"
+            ]
+        }
+    },
+    {
+        "account_id": "TROLL_BOT_4",
+        "metadata": {
+            "last_ip": "104.28.19.112",
+            "payment_hash": "VISA-4455-XXXX-9090"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_4",
+                "TROLL_BOT_2",
+                "TROLL_BOT_4"
+            ]
+        }
+    },
+    {
+        "account_id": "TROLL_BOT_6",
+        "metadata": {
+            "last_ip": "104.28.19.112",
+            "payment_hash": "VISA-4455-XXXX-9090"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_11",
+                "TROLL_BOT_6",
+                "TROLL_BOT_6"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_6",
+        "metadata": {
+            "last_ip": "189.168.1.36",
+            "payment_hash": "MC-2584-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_6",
+                "real_user_10"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_4",
+        "metadata": {
+            "last_ip": "189.168.1.160",
+            "payment_hash": "MC-1106-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_3",
+                "real_user_12"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_9",
+        "metadata": {
+            "last_ip": "189.168.1.230",
+            "payment_hash": "MC-4150-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_1",
+                "real_user_11"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_1",
+        "metadata": {
+            "last_ip": "189.168.1.238",
+            "payment_hash": null
+        },
+        "activity": {
+            "retweets": [
+                "real_user_1",
+                "real_user_1"
+            ]
+        }
+    },
+    {
+        "account_id": "TROLL_BOT_3",
+        "metadata": {
+            "last_ip": "104.28.19.112",
+            "payment_hash": "VISA-4455-XXXX-9090"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_5",
+                "TROLL_BOT_2",
+                "TROLL_BOT_3"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_3",
+        "metadata": {
+            "last_ip": "189.168.1.193",
+            "payment_hash": null
+        },
+        "activity": {
+            "retweets": [
+                "real_user_4",
+                "real_user_8"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_7",
+        "metadata": {
+            "last_ip": "189.168.1.77",
+            "payment_hash": null
+        },
+        "activity": {
+            "retweets": [
+                "real_user_9",
+                "real_user_2"
+            ]
+        }
+    },
+    {
+        "account_id": "real_user_5",
+        "metadata": {
+            "last_ip": "189.168.1.118",
+            "payment_hash": "MC-3547-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_13",
+                "real_user_6"
+            ]
+        }
+    },
+    {
+        "account_id": "GHOST_ACCOUNT",
+        "metadata": null,
+        "activity": null
+    },
+    {
+        "account_id": "real_user_2",
+        "metadata": {
+            "last_ip": "189.168.1.33",
+            "payment_hash": "MC-9279-XXXX-1111"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_9",
+                "real_user_4"
+            ]
+        }
+    },
+    {
+        "account_id": "TROLL_BOT_2",
+        "metadata": {
+            "last_ip": "104.28.19.112",
+            "payment_hash": "VISA-4455-XXXX-9090"
+        },
+        "activity": {
+            "retweets": [
+                "real_user_1",
+                "TROLL_BOT_6",
+                "TROLL_BOT_2"
+            ]
+        }
+    }
+]
